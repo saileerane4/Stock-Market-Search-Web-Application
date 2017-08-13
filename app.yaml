@@ -1,0 +1,9 @@
+application: stocksearch
+version: 1
+runtime: php55
+api_version: 1
+
+handlers:
+
+- url: /stock\.php
+  script: stock.php
