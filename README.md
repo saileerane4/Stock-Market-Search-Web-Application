@@ -11,11 +11,11 @@ The application keeps a track of the company stock provided by Markit on demand'
 
 4.) Auto refresh and manual refresh options using AJAX calls
 
-5.) Displays the stock details on entring the company name
+5.) Displays the stock details on entering the company name
 
-6.) Row wise content is created using JAVAscript dynamically
+6.) Row wise content is created using JavaScript dynamically
 
-7.) For the queried company the corresponding Historical chart is created in a new tab
+7.) For the queried company the corresponding historical chart is created in a new tab
 
 8.) The historical charts displays the stock values on different timelines using AJAX calls to the api
 
